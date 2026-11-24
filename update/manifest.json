@@ -1,7 +1,7 @@
 {
-  "version": "0.2.6",
+  "version": "0.2.7",
   "min_app": "0.2.0",
-  "size": 2204192,
-  "sha256": "0b01645a27bec4a89a2ebd209deb1b6b2a9ca5816b594c6ec97c1ea8a9f83ae0",
-  "notes": "걸어 다니는 마을 · NPC · 시설"
+  "size": 2272416,
+  "sha256": "f2653510cf760a65c9e113751495f0068a67b17706ff7ed133d9f75bf038afd4",
+  "notes": "리니지식 사냥터: 자동 사냥 · 줍기 · 필드 보스 · 신의 시련"
 }
