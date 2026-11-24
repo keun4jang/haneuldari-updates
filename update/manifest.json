@@ -1,1 +1,7 @@
-{"version":"0.0.0","size":0,"sha256":"","notes":""}
+{
+  "version": "0.1.1",
+  "min_app": "0.1.0",
+  "size": 1925888,
+  "sha256": "96a0dad9d5c2d186c2d6b61691b4561577dc25ed1c56a768d2db5ee6506f6a0d",
+  "notes": "첫 갱신 시험 - 앱 안 자동 갱신 확인"
+}
