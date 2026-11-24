@@ -1,7 +1,7 @@
 {
-  "version": "0.2.8",
+  "version": "0.3.0",
   "min_app": "0.2.0",
-  "size": 2272496,
-  "sha256": "82b2a1b345ed4d0faca19f85727be7ed0117b1825a024ba8ed654a3a3bff8f38",
-  "notes": "나가기 버튼: 홈과 메뉴"
+  "size": 2549744,
+  "sha256": "bf655b6f79fb878d5ca54dd8a7f81fc5e3c2be0635cedf220241e37c1a8ec9b6",
+  "notes": "그래픽과 화면을 전부 새로 그렸어요. 미니맵, 처음부터 하기 추가"
 }
