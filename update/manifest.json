@@ -1,7 +1,7 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.6",
   "min_app": "0.2.0",
-  "size": 2132288,
-  "sha256": "65cd0aa4c3ff797dc878f77845be5c0742279af7ae59cbd8fd0a979ec364ae89",
-  "notes": "누리 걷기 6프레임 · 세계 데이터와 퀘스트"
+  "size": 2204192,
+  "sha256": "0b01645a27bec4a89a2ebd209deb1b6b2a9ca5816b594c6ec97c1ea8a9f83ae0",
+  "notes": "걸어 다니는 마을 · NPC · 시설"
 }
